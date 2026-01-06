@@ -1,0 +1,2 @@
+Mean IoU: 0.6543
+Mean Dice Coefficient: 0.7875
