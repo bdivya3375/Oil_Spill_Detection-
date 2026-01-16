@@ -39,4 +39,4 @@ env/
 *.pth
 data/
 images*/
-models*/
+# models*/
