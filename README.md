@@ -169,17 +169,18 @@ python src/train.py --epochs 20 --batch_size 16 --learning_rate 0.001
 | `--learning_rate` | 0.001 | Learning rate for optimizer |
 | `--data_path` | `images/` | Path to training images |
 
-### Running the Web Application
+### Web Application
+
+**[🚀 Launch Live App](https://iga6bc8yft8kntubsbsfem.streamlit.app/)**
+
+To run the application locally (for development):
 
 1. **Start the Streamlit app**
    ```bash
    streamlit run app.py
    ```
-
-2. **Access the application**
+2. **Access locally**
    - Open your browser and navigate to `http://localhost:8501`
-   - Upload a satellite image through the interface
-   - View the prediction results in real-time
 
 ### Command-Line Prediction
 
@@ -310,9 +311,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 | **Name** | **Role** | **Contact** |
 |:---------|:---------|:------------|
-| **[Your Name]** | Lead Developer | [Email](mailto:your.email@example.com) \| [GitHub](https://github.com/yourusername) |
-| **[Teammate Name]** | Researcher | [Email](mailto:teammate@example.com) \| [GitHub](https://github.com/teammate) |
-
+| **[BARLA DIVYA]** | Lead Developer | [Email](23211a0525@bvrit.ac.in) \| [GitHub](https://github.com/bdivya3375) |
 ---
 
 ## License
