@@ -260,9 +260,12 @@ The model generates binary segmentation masks with high accuracy for oil spill d
 ### Demo
 
 
-**[Watch Demo Video](images/oilspill.mp4)**
 
-*(Note: To embed a playable video player directly on GitHub, please upload the video to a GitHub Issue/PR comment and copy the generated asset link here.)*
+<video src="https://github.com/bdivya3375/oilspilldet/raw/Divya_OIL_SPILL_DETECTION/images/oilspill.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
+**[Click here if video does not play](https://github.com/bdivya3375/oilspilldet/raw/Divya_OIL_SPILL_DETECTION/images/oilspill.mp4)**
+
 
 
 **Live Demo:** [Deploy to Streamlit Cloud](https://share.streamlit.io/)
