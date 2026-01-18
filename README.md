@@ -261,10 +261,10 @@ The model generates binary segmentation masks with high accuracy for oil spill d
 
 
 
-<video src="https://github.com/springboardmentor112r-Agri/Oil_Spill_Detection-/raw/Divya_OIL_SPILL_DETECTION/images/oilspill.mp4" controls="controls" style="max-width: 100%;">
-</video>
+### Video Demo
+Click the link below to watch the demo video:
 
-**[Click here if video does not play](https://github.com/springboardmentor112r-Agri/Oil_Spill_Detection-/raw/Divya_OIL_SPILL_DETECTION/images/oilspill.mp4)**
+**🎥 [Watch Demo Video (oilspill.mp4)](images/oilspill.mp4)**
 
 
 
